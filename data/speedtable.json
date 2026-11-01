@@ -1,0 +1,312 @@
+{
+ "site": "doraemon",
+ "name": "哆啦A梦",
+ "rows": [
+  {
+   "name": "【IPL】 专线-香港4",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 68,
+   "https_ms": 187,
+   "avg_mb": 84.7,
+   "peak_mb": 99.2,
+   "raw": "- | 【IPLC】 专线-香港04 | Shadowsocks | 68ms | 20.3 | 187ms | 84.68MB | 99.15MB | Unknown"
+  },
+  {
+   "name": "LIPL】 专线-香港3",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 74,
+   "https_ms": 201,
+   "avg_mb": 85.6,
+   "peak_mb": 98.8,
+   "raw": "2 | LIPLC】 专线-香港03 | Shadowsocks | 74ms | 21.6 | 201ms | 85.63MB | 98.83MB | Unknown"
+  },
+  {
+   "name": "【IPL】 专线-香港5",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 84,
+   "https_ms": 337,
+   "avg_mb": 74.5,
+   "peak_mb": 97.8,
+   "raw": "3 | 【IPLC】 专线-香港05 | Shadowsocks | 84ms | 23.2 | 337ms | 74.48MB | 97.79MB | Unknown"
+  },
+  {
+   "name": "【IPL】 专线-日本2",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 139,
+   "https_ms": 399,
+   "avg_mb": 84.7,
+   "peak_mb": 95.5,
+   "raw": "4 | 【IPLC】 专线-日本02 | Shadowsocks | 139ms | 23.5 | 399ms | 84.68MB | 95.52MB | Unknown"
+  },
+  {
+   "name": "【IPL】 专线-日本1",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 109,
+   "https_ms": 324,
+   "avg_mb": 85.6,
+   "peak_mb": 89.8,
+   "raw": "5 | 【IPLC】 专线-日本01 | Shadowsocks | 109ms | 22.6 | 324ms | 85.63MB | 89.83MB | Unknown"
+  },
+  {
+   "name": "【三网】N专线MAX-新加坡1",
+   "type": "TROJAN",
+   "delay_ms": 109,
+   "https_ms": 493,
+   "avg_mb": 74.5,
+   "peak_mb": 84.8,
+   "raw": "6 | 【三网】CN专线MAX-新加坡01 | Trojan | 109ms | 57.7 | 493ms | 74.48MB | 84.79MB | PortRestrictedCone"
+  },
+  {
+   "name": "【IPL】 专线-新加坡1",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 192,
+   "https_ms": 547,
+   "avg_mb": 73.2,
+   "peak_mb": 80.2,
+   "raw": "7 | 【IPLC】 专线-新加坡01 | Shadowsocks | 192ms | 28.6 | 547ms | 73.21MB | 80.23MB | Unknown"
+  },
+  {
+   "name": "【三网】N专线MAX-新加坡3",
+   "type": "TROJAN",
+   "delay_ms": 51,
+   "https_ms": 289,
+   "avg_mb": 71.8,
+   "peak_mb": 80.0,
+   "raw": "8 | 【三网】CN专线MAX-新加坡03 | Trojan | 51ms | 1.9 | 289ms | 71.83MB | 80.01MB | FullCone"
+  },
+  {
+   "name": "【IPL】 专线-新加坡2",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 88,
+   "https_ms": 288,
+   "avg_mb": 71.4,
+   "peak_mb": 77.5,
+   "raw": "9 | 【IPLC】 专线-新加坡02 | Shadowsocks | 88ms | 2.7 | 288ms | 71.38MB | 77.45MB | Unknown"
+  },
+  {
+   "name": "【IPL】 专线-印度1",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 152,
+   "https_ms": 462,
+   "avg_mb": 71.3,
+   "peak_mb": 75.8,
+   "raw": "10 | 【IPLC】 专线-印度01 | Shadowsocks | 152ms | 19.2 | 462ms | 71.34MB | 75.78MB | Unknown"
+  },
+  {
+   "name": "【IPL】 专线-台湾1",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 95,
+   "https_ms": 446,
+   "avg_mb": 70.0,
+   "peak_mb": 75.5,
+   "raw": "11 | 【IPLC】 专线-台湾01 | Shadowsocks | 95ms | 5 | 446ms | 70.04MB | 75.47MB | Unknown"
+  },
+  {
+   "name": "【IPL】 专线-韩国1",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 208,
+   "https_ms": 553,
+   "avg_mb": 65.5,
+   "peak_mb": 70.4,
+   "raw": "12 | 【IPLC】 专线-韩国01 | Shadowsocks | 208ms | 46.2 | 553ms | 65.52MB | 70.44MB | Unknown"
+  },
+  {
+   "name": "【三网】N专线MAX-新加坡2",
+   "type": "TROJAN",
+   "delay_ms": 133,
+   "https_ms": 593,
+   "avg_mb": 59.2,
+   "peak_mb": 60.8,
+   "raw": "13 | 【三网】CN专线MAX-新加坡02 | Trojan | 133ms | 19.2 | 593ms | 59.17MB | 60.83MB | Unknown"
+  },
+  {
+   "name": "【IPL】 专线-新加坡3",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 123,
+   "https_ms": 318,
+   "avg_mb": 58.5,
+   "peak_mb": 60.0,
+   "raw": "14 | 【IPLC】 专线-新加坡03 | Shadowsocks | 123ms | 28.4 | 318ms | 58.55MB | 60.02MB | Unknown"
+  },
+  {
+   "name": "【IPL】 专线-香港1",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 67,
+   "https_ms": 181,
+   "avg_mb": 46.1,
+   "peak_mb": 50.2,
+   "raw": "15 | 【IPLC】 专线-香港01 | Shadowsocks | 67ms | 22 | 181ms | 46.09MB | 50.25MB | Unknown"
+  },
+  {
+   "name": "LIPL】 专线-韩国2",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 128,
+   "https_ms": 404,
+   "avg_mb": 40.4,
+   "peak_mb": 49.8,
+   "raw": "16 | LIPLC】 专线-韩国02 | Shadowsocks | 128ms | 14.7 | 404ms | 40.35MB | 49.76MB | Unknown"
+  },
+  {
+   "name": "【IPL】 专线-德国1",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 244,
+   "https_ms": 708,
+   "avg_mb": 40.5,
+   "peak_mb": 47.3,
+   "raw": "17 | 【IPLC】 专线-德国01 | Shadowsocks | 244ms | 23.2 | 708ms | 40.47MB | 47.34MB | Unknown"
+  },
+  {
+   "name": "【IPL】 专线-美国2",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 208,
+   "https_ms": 600,
+   "avg_mb": 40.0,
+   "peak_mb": 46.9,
+   "raw": "18 | 【IPLC】 专线-美国02 | Shadowsocks | 208ms | 19.2 | 600ms | 40.01MB | 46.92MB | Unknown"
+  },
+  {
+   "name": "直连美国-洛杉矶",
+   "type": "TROJAN",
+   "delay_ms": 157,
+   "https_ms": 820,
+   "avg_mb": 40.8,
+   "peak_mb": 45.9,
+   "raw": "19 | 直连美国-洛杉矶 | Trojan | 157ms | 3.9 | 820ms | 40.76MB | 45.92MB | FullCone"
+  },
+  {
+   "name": "【IPL】 专线-美国1",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 225,
+   "https_ms": 673,
+   "avg_mb": 38.3,
+   "peak_mb": 45.7,
+   "raw": "20 | 【IPLC】 专线-美国01 | Shadowsocks | 225ms | 21.9 | 673ms | 38.26MB | 45.69MB | Unknown"
+  },
+  {
+   "name": "【IPL】 专线-迪拜1",
+   "type": "SHADOWSOCKS",
+   "delay_ms": 325,
+   "https_ms": 1070,
+   "avg_mb": 35.0,
+   "peak_mb": 40.4,
+   "raw": "21 | 【IPLC】 专线-迪拜01 | Shadowsocks | 325ms | 16.5 | 1070ms | 35.04MB | 40.41MB | Unknown"
+  },
+  {
+   "name": "台湾 11X111M 解锁媒体",
+   "type": "TROJAN",
+   "delay_ms": 720,
+   "https_ms": 1321,
+   "avg_mb": 9.3,
+   "peak_mb": 16.9,
+   "raw": "22 | 台湾 011X111000M 解锁媒体 | Trojan | 720ms | 1169.8 | 1321ms | 9.32MB | 16.90MB | PortRestrictedCone"
+  },
+  {
+   "name": "直连香港4",
+   "type": "VLESS",
+   "delay_ms": 0,
+   "https_ms": 0,
+   "avg_mb": 5.6,
+   "peak_mb": 8.2,
+   "raw": "23 | 直连香港04 | VLESS | 0ms | 0 | 0ms | 5.59MB | 8.18MB | PortRestrictedCone"
+  },
+  {
+   "name": "直连香港3",
+   "type": "VLESS",
+   "delay_ms": 0,
+   "https_ms": 0,
+   "avg_mb": 5.0,
+   "peak_mb": 6.2,
+   "raw": "24 | 直连香港03 | VLESS | 0ms | 0 | 0ms | 4.97MB | 6.22MB | PortRestrictedCone"
+  },
+  {
+   "name": "直连美国-盐湖",
+   "type": "TROJAN",
+   "delay_ms": 207,
+   "https_ms": 1112,
+   "avg_mb": 1.2,
+   "peak_mb": 3.0,
+   "raw": "25 | 直连美国-盐湖城 | Trojan | 207ms | 3.5 | 1112ms | 1.17MB | 3.00MB | PortRestrictedCone"
+  },
+  {
+   "name": "日本 3",
+   "type": "TROJAN",
+   "delay_ms": 172,
+   "https_ms": 919,
+   "avg_mb": 0.5,
+   "peak_mb": 0.8,
+   "raw": "26 | 日本 03|X115000M 解锁媒体 | Trojan | 172ms | 4.2 | 919ms | 476.23KB | 822.76KB | FullCone"
+  },
+  {
+   "name": "直连香港1",
+   "type": "VLESS",
+   "delay_ms": 56,
+   "https_ms": 573,
+   "avg_mb": 0.1,
+   "peak_mb": 0.1,
+   "raw": "27 | 直连香港01 | VLESS | 56ms | 24.8 | 573ms | 80.01KB | 98.30KB | PortRestrictedCone"
+  },
+  {
+   "name": "直连香港2",
+   "type": "VLESS",
+   "delay_ms": 73,
+   "https_ms": 645,
+   "avg_mb": 0.1,
+   "peak_mb": 0.1,
+   "raw": "28 | 直连香港02 | VLESS | 73ms | 26.7 | 645ms | 68.39KB | 85.51KB | PortRestrictedCone"
+  },
+  {
+   "name": "定期去下方地址重新丁阅",
+   "type": "TROJAN",
+   "delay_ms": 0,
+   "https_ms": 0,
+   "avg_mb": 0.0,
+   "peak_mb": null,
+   "raw": "29 | 定期去下方地址重新丁阅 | Trojan | 0ms | 0 | 0ms | OB | 0B | Unknown"
+  },
+  {
+   "name": "防失联：URLQvpn.ng",
+   "type": "TROJAN",
+   "delay_ms": 0,
+   "https_ms": 0,
+   "avg_mb": null,
+   "peak_mb": null,
+   "raw": "31 | 防失联：URLQvpn.ong | Trojan | 0ms | 0 | 0ms | OB | OB | Unknown"
+  },
+  {
+   "name": "TG频道：t.me/VPNng",
+   "type": "TROJAN",
+   "delay_ms": 0,
+   "https_ms": 0,
+   "avg_mb": null,
+   "peak_mb": null,
+   "raw": "34 | TG频道：t.me/VPNong | Trojan | 0ms | 0 | 0ms | OB | OB | Unknown"
+  },
+  {
+   "name": "TG讨论组：t.me/VPNNG",
+   "type": "TROJAN",
+   "delay_ms": 0,
+   "https_ms": 0,
+   "avg_mb": null,
+   "peak_mb": null,
+   "raw": "35 | TG讨论组：t.me/VPNONGoo | Trojan | 0ms | 0 | 0ms | OB | OB | Unknown"
+  },
+  {
+   "name": "公推荐最高返利丫2%",
+   "type": "TROJAN",
+   "delay_ms": 0,
+   "https_ms": 0,
+   "avg_mb": null,
+   "peak_mb": null,
+   "raw": "36 | 公推荐最高返利丫20% | Trojan | 0ms | 0 | 0ms | OB | OB | Unknown"
+  },
+  {
+   "name": "中外虾外年年年年",
+   "type": "TROJAN",
+   "delay_ms": 0,
+   "https_ms": 0,
+   "avg_mb": null,
+   "peak_mb": null,
+   "raw": "37 | 中外虾个外年年年年 | Trojan | 0ms | 0 | 0ms | OB | OB | Unknown"
+  }
+ ]
+}

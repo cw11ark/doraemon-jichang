@@ -1,0 +1,38 @@
+{
+  "site_id": "doraemon",
+  "name": "哆啦A梦",
+  "image": "images/speedtests/doraemon.png",
+  "attribution": "YGPY 哆啦A梦段落；表内官网/频道说明与该品牌对应",
+  "test_time_as_printed": "2025-10-02T19:13:46 (CST)",
+  "test_date": "2025-10-02",
+  "report_type": "download_speed_and_latency",
+  "has_download_throughput": true,
+  "backend_as_read": "华南-深圳电信 2Gb",
+  "tool_as_read": "图示版本1.11.5；后端4.5.9；顶栏XyZ",
+  "threads": 1,
+  "traffic_used_gb": "3.9",
+  "duration_seconds": 639,
+  "ping_count": 10,
+  "table_rows": 37,
+  "metrics_present": [
+    "TLS RTT",
+    "RTT标准差",
+    "HTTPS延迟",
+    "平均速度",
+    "最大速度",
+    "每秒速度图",
+    "UDP类型"
+  ],
+  "example": {
+    "node": "[IPLC] 专线-香港04",
+    "tls_rtt_ms": 68,
+    "https_latency_ms": 187,
+    "average_speed_raw": "84.68MB",
+    "peak_speed_raw": "99.15MB"
+  },
+  "caveats": [
+    "末尾至少9行是官网/剩余量/到期/群组等说明；37行不等于37个真实节点。",
+    "表里0ms不是零延迟，0B/Unknown须按测试语义解释。",
+    "用户当前V5月档写500M，不能用另一日期另一套餐的截图速度保证当前套餐表现。"
+  ]
+}
